@@ -367,7 +367,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>9</td><td>73</td><td>0.31426968</td><td>0.31426968</td><td>etf</td><td><a href="CurrentBestPackings/9x73_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>9</td><td>81</td><td>0.31622777</td><td>0.31622777</td><td>etf</td><td><a href="CurrentBestPackings/9x81_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>10</td><td>12</td><td>0.13896315</td><td>0.13896315</td><td>B-C</td><td><a href="CurrentBestPackings/10x12_B-C.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>10</td><td>16</td><td>0.20000000</td><td>0.20000000</td><td>njas</td><td><a href="CurrentBestPackings/10x16_njas.txt">File</a></td><td></td></tr>
+<tr><td>10</td><td>16</td><td>0.20000000</td><td>0.20000000</td><td>etf</td><td><a href="CurrentBestPackings/10x16_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>10</td><td>19</td><td>0.22360680</td><td>0.22360680</td><td>etf</td><td><a href="CurrentBestPackings/10x19_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>10</td><td>25</td><td>0.25000000</td><td>0.25000000</td><td>etf</td><td><a href="CurrentBestPackings/10x25_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>10</td><td>91</td><td>0.30000000</td><td>0.30000000</td><td>etf</td><td><a href="CurrentBestPackings/10x91_etf.txt">File</a></td><td>&#9675;</td></tr>
