@@ -57,6 +57,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
               <li> dgm, ejk, and JJ: Dustin G. Mixon, Emily J. King, and John Jasper, respectively.</li>
               <li> hlc: Henry Cohn.</li>
               <li> gKmR: Gene Kopp and Michael Ren.</li>
+              <li> jrr: Juan Rom&aacute;n-Roche and Sebasti&aacute;n Roca-Jerat.</li>
               <li> bmem: Bastien Massion and Estelle Massart. </li>
               <li> BGM+22: From the paper [BGM+22].</li>
               <li> CID+21: From the paper [CID+21]. (Has since been knocked off the leader board.)</li>
@@ -156,7 +157,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>3</td><td>20</td><td>0.68646389</td><td>0.64168895</td><td>hlc</td><td><a href="CurrentBestPackings/3x20_hlc.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>21</td><td>0.68797170</td><td>0.64549722</td><td>hlc</td><td><a href="CurrentBestPackings/3x21_hlc.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>22</td><td>0.70342497</td><td>0.64888568</td><td>bmem</td><td><a href="CurrentBestPackings/3x22_bmem.txt">File</a></td><td></td></tr>
-<tr><td>3</td><td>23</td><td>0.70936899</td><td>0.65192024</td><td>bmem</td><td><a href="CurrentBestPackings/3x23_bmem.txt">File</a></td><td></td></tr>
+<tr><td>3</td><td>23</td><td>0.70936761</td><td>0.65192024</td><td>jrr</td><td><a href="CurrentBestPackings/3x23_jrr.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>24</td><td>0.71909565</td><td>0.65465367</td><td>hlc</td><td><a href="CurrentBestPackings/3x24_hlc.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>25</td><td>0.72545783</td><td>0.65712874</td><td>bmem</td><td><a href="CurrentBestPackings/3x25_bmem.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>26</td><td>0.72912181</td><td>0.65938047</td><td>bmem</td><td><a href="CurrentBestPackings/3x26_bmem.txt">File</a></td><td></td></tr>
@@ -167,7 +168,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>3</td><td>31</td><td>0.74532208</td><td>0.66815310</td><td>hlc</td><td><a href="CurrentBestPackings/3x31_hlc.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>32</td><td>0.74797328</td><td>0.66953406</td><td>bmem</td><td><a href="CurrentBestPackings/3x32_bmem.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>33</td><td>0.75301857</td><td>0.67082039</td><td>hlc</td><td><a href="CurrentBestPackings/3x33_hlc.txt">File</a></td><td></td></tr>
-<tr><td>3</td><td>34</td><td>0.75684332</td><td>0.67202151</td><td>hlc</td><td><a href="CurrentBestPackings/3x34_hlc.txt">File</a></td><td></td></tr>
+<tr><td>3</td><td>34</td><td>0.75683480</td><td>0.67202151</td><td>jrr</td><td><a href="CurrentBestPackings/3x34_jrr.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>35</td><td>0.75932202</td><td>0.67314560</td><td>bmem</td><td><a href="CurrentBestPackings/3x35_bmem.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>36</td><td>0.76088362</td><td>0.67419986</td><td>hlc</td><td><a href="CurrentBestPackings/3x36_hlc.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>37</td><td>0.76619123</td><td>0.67519060</td><td>hlc</td><td><a href="CurrentBestPackings/3x37_hlc.txt">File</a></td><td></td></tr>
@@ -180,8 +181,8 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>3</td><td>44</td><td>0.78689372</td><td>0.69848866</td><td>hlc</td><td><a href="CurrentBestPackings/3x44_hlc.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>45</td><td>0.78689437</td><td>0.70185760</td><td>JJ</td><td><a href="CurrentBestPackings/3x45_JJ.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>46</td><td>0.79435710</td><td>0.70511609</td><td>hlc</td><td><a href="CurrentBestPackings/3x46_hlc.txt">File</a></td><td></td></tr>
-<tr><td>3</td><td>47</td><td>0.79700358</td><td>0.70827002</td><td>bmem</td><td><a href="CurrentBestPackings/3x47_bmem.txt">File</a></td><td></td></tr>
-<tr><td>3</td><td>48</td><td>0.79945656</td><td>0.71132487</td><td>hlc</td><td><a href="CurrentBestPackings/3x48_hlc.txt">File</a></td><td></td></tr>
+<tr><td>3</td><td>47</td><td>0.79684252</td><td>0.70827002</td><td>jrr</td><td><a href="CurrentBestPackings/3x47_jrr.txt">File</a></td><td></td></tr>
+<tr><td>3</td><td>48</td><td>0.79933457</td><td>0.71132487</td><td>jrr</td><td><a href="CurrentBestPackings/3x48_jrr.txt">File</a></td><td></td></tr>
 <tr><td>3</td><td>49</td><td>0.80155093</td><td>0.71428571</td><td>hlc</td><td><a href="CurrentBestPackings/3x49_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>6</td><td>0.32732684</td><td>0.32278096</td><td>dgm</td><td><a href="CurrentBestPackings/4x6_dgm.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>7</td><td>0.35355339</td><td>0.35355339</td><td>etf</td><td><a href="CurrentBestPackings/4x7_etf.txt">File</a></td><td>&#9675;</td></tr>
@@ -203,9 +204,9 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>4</td><td>23</td><td>0.55046239</td><td>0.52314836</td><td>hlc</td><td><a href="CurrentBestPackings/4x23_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>24</td><td>0.55701604</td><td>0.52915026</td><td>hlc</td><td><a href="CurrentBestPackings/4x24_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>25</td><td>0.56649311</td><td>0.53452248</td><td>hlc</td><td><a href="CurrentBestPackings/4x25_hlc.txt">File</a></td><td></td></tr>
-<tr><td>4</td><td>26</td><td>0.57157616</td><td>0.53935989</td><td>bmem</td><td><a href="CurrentBestPackings/4x26_bmem.txt">File</a></td><td></td></tr>
+<tr><td>4</td><td>26</td><td>0.57142744</td><td>0.53935989</td><td>jrr</td><td><a href="CurrentBestPackings/4x26_jrr.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>27</td><td>0.57499638</td><td>0.54373907</td><td>hlc</td><td><a href="CurrentBestPackings/4x27_hlc.txt">File</a></td><td></td></tr>
-<tr><td>4</td><td>28</td><td>0.57715850</td><td>0.54772256</td><td>bmem</td><td><a href="CurrentBestPackings/4x28_bmem.txt">File</a></td><td></td></tr>
+<tr><td>4</td><td>28</td><td>0.57711826</td><td>0.54772256</td><td>jrr</td><td><a href="CurrentBestPackings/4x28_jrr.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>29</td><td>0.57733882</td><td>0.55136195</td><td>hlc</td><td><a href="CurrentBestPackings/4x29_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>30</td><td>0.57735006</td><td>0.55470020</td><td>hlc</td><td><a href="CurrentBestPackings/4x30_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>31</td><td>0.57735027</td><td>0.55777335</td><td>AUTO</td><td><a href="CurrentBestPackings/4x31_AUTO.txt">File</a></td><td></td></tr>
@@ -218,7 +219,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>4</td><td>38</td><td>0.57735027</td><td>0.57394404</td><td>AUTO</td><td><a href="CurrentBestPackings/4x38_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>39</td><td>0.57735027</td><td>0.57569833</td><td>AUTO</td><td><a href="CurrentBestPackings/4x39_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>40</td><td>0.57735027</td><td>0.57735027</td><td>Lev</td><td><a href="CurrentBestPackings/4x40_Lev.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>4</td><td>41</td><td>0.62181158</td><td>0.57890857</td><td>hlc</td><td><a href="CurrentBestPackings/4x41_hlc.txt">File</a></td><td></td></tr>
+<tr><td>4</td><td>41</td><td>0.62179172</td><td>0.57890857</td><td>jrr</td><td><a href="CurrentBestPackings/4x41_jrr.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>42</td><td>0.62416041</td><td>0.58038100</td><td>hlc</td><td><a href="CurrentBestPackings/4x42_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>43</td><td>0.62689046</td><td>0.58177447</td><td>hlc</td><td><a href="CurrentBestPackings/4x43_hlc.txt">File</a></td><td></td></tr>
 <tr><td>4</td><td>44</td><td>0.63028266</td><td>0.58309519</td><td>hlc</td><td><a href="CurrentBestPackings/4x44_hlc.txt">File</a></td><td></td></tr>
@@ -255,11 +256,11 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>5</td><td>31</td><td>0.48159568</td><td>0.45291081</td><td>hlc</td><td><a href="CurrentBestPackings/5x31_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>32</td><td>0.48688165</td><td>0.45812285</td><td>hlc</td><td><a href="CurrentBestPackings/5x32_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>33</td><td>0.49101569</td><td>0.46291005</td><td>hlc</td><td><a href="CurrentBestPackings/5x33_hlc.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>34</td><td>0.49757019</td><td>0.46732302</td><td>hlc</td><td><a href="CurrentBestPackings/5x34_hlc.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>35</td><td>0.50000000</td><td>0.47140452</td><td>AUTO</td><td><a href="CurrentBestPackings/5x35_AUTO.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>36</td><td>0.50000000</td><td>0.47519096</td><td>AUTO</td><td><a href="CurrentBestPackings/5x36_AUTO.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>37</td><td>0.50000000</td><td>0.47871355</td><td>AUTO</td><td><a href="CurrentBestPackings/5x37_AUTO.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>38</td><td>0.50000000</td><td>0.48199920</td><td>AUTO</td><td><a href="CurrentBestPackings/5x38_AUTO.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>34</td><td>0.49721217</td><td>0.46732302</td><td>jrr</td><td><a href="CurrentBestPackings/5x34_jrr.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>35</td><td>0.49998890</td><td>0.47140452</td><td>AUTO</td><td><a href="CurrentBestPackings/5x35_AUTO.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>36</td><td>0.49998890</td><td>0.47519096</td><td>AUTO</td><td><a href="CurrentBestPackings/5x36_AUTO.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>37</td><td>0.49998890</td><td>0.47871355</td><td>AUTO</td><td><a href="CurrentBestPackings/5x37_AUTO.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>38</td><td>0.49998890</td><td>0.48199920</td><td>jrr</td><td><a href="CurrentBestPackings/5x38_jrr.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>39</td><td>0.50000000</td><td>0.48507125</td><td>AUTO</td><td><a href="CurrentBestPackings/5x39_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>40</td><td>0.50000000</td><td>0.48795004</td><td>AUTO</td><td><a href="CurrentBestPackings/5x40_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>41</td><td>0.50000000</td><td>0.49065338</td><td>AUTO</td><td><a href="CurrentBestPackings/5x41_AUTO.txt">File</a></td><td></td></tr>
@@ -267,10 +268,10 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>5</td><td>43</td><td>0.50000000</td><td>0.49559463</td><td>AUTO</td><td><a href="CurrentBestPackings/5x43_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>44</td><td>0.50000000</td><td>0.49785866</td><td>AUTO</td><td><a href="CurrentBestPackings/5x44_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>45</td><td>0.50000000</td><td>0.50000000</td><td>Lev</td><td><a href="CurrentBestPackings/5x45_Lev.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>5</td><td>46</td><td>0.52760056</td><td>0.50202841</td><td>hlc</td><td><a href="CurrentBestPackings/5x46_hlc.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>47</td><td>0.53719895</td><td>0.50395263</td><td>hlc</td><td><a href="CurrentBestPackings/5x47_hlc.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>46</td><td>0.52188522</td><td>0.50202841</td><td>jrr</td><td><a href="CurrentBestPackings/5x46_jrr.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>47</td><td>0.53699561</td><td>0.50395263</td><td>jrr</td><td><a href="CurrentBestPackings/5x47_jrr.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>48</td><td>0.54097140</td><td>0.50578054</td><td>hlc</td><td><a href="CurrentBestPackings/5x48_hlc.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>49</td><td>0.54351100</td><td>0.50751922</td><td>hlc</td><td><a href="CurrentBestPackings/5x49_hlc.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>49</td><td>0.54276167</td><td>0.50751922</td><td>jrr</td><td><a href="CurrentBestPackings/5x49_jrr.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>50</td><td>0.55173030</td><td>0.50917508</td><td>hlc</td><td><a href="CurrentBestPackings/5x50_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>85</td><td>0.57735027</td><td>0.54006172</td><td>BGMP</td><td><a href="CurrentBestPackings/5x85_BGMP.txt">File</a></td><td>&#9651;[BGM+22]</td></tr>
 <tr><td>6</td><td>8</td><td>0.22400924</td><td>0.22400924</td><td>B-C</td><td><a href="CurrentBestPackings/6x8_B-C.txt">File</a></td><td>&#9675;</td></tr>
@@ -282,7 +283,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>6</td><td>14</td><td>0.32031664</td><td>0.32025631</td><td>hlc</td><td><a href="CurrentBestPackings/6x14_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>15</td><td>0.32739651</td><td>0.32732684</td><td>hlc</td><td><a href="CurrentBestPackings/6x15_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>16</td><td>0.33333333</td><td>0.33333333</td><td>etf</td><td><a href="CurrentBestPackings/6x16_etf.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>6</td><td>17</td><td>0.33951091</td><td>0.33850160</td><td>hlc</td><td><a href="CurrentBestPackings/6x17_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>17</td><td>0.33933198</td><td>0.33850160</td><td>jrr</td><td><a href="CurrentBestPackings/6x17_jrr.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>18</td><td>0.34498346</td><td>0.34299717</td><td>hlc</td><td><a href="CurrentBestPackings/6x18_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>19</td><td>0.34924778</td><td>0.34694433</td><td>bmem</td><td><a href="CurrentBestPackings/6x19_bmem.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>20</td><td>0.35203544</td><td>0.35043832</td><td>bmem</td><td><a href="CurrentBestPackings/6x20_bmem.txt">File</a></td><td></td></tr>
@@ -305,16 +306,16 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>6</td><td>37</td><td>0.40824829</td><td>0.40824829</td><td>orth</td><td><a href="CurrentBestPackings/6x37_orth.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>6</td><td>38</td><td>0.41682055</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x38_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>39</td><td>0.42274914</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x39_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>40</td><td>0.42841427</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x40_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>41</td><td>0.43384187</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x41_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>40</td><td>0.42819149</td><td>0.40824829</td><td>jrr</td><td><a href="CurrentBestPackings/6x40_jrr.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>41</td><td>0.43077617</td><td>0.40824829</td><td>jrr</td><td><a href="CurrentBestPackings/6x41_jrr.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>42</td><td>0.43731047</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x42_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>43</td><td>0.44210016</td><td>0.41217007</td><td>hlc</td><td><a href="CurrentBestPackings/6x43_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>44</td><td>0.44751758</td><td>0.41585133</td><td>hlc</td><td><a href="CurrentBestPackings/6x44_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>43</td><td>0.44190326</td><td>0.41217007</td><td>jrr</td><td><a href="CurrentBestPackings/6x43_jrr.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>44</td><td>0.44673518</td><td>0.41585133</td><td>jrr</td><td><a href="CurrentBestPackings/6x44_jrr.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>45</td><td>0.45132430</td><td>0.41931393</td><td>hlc</td><td><a href="CurrentBestPackings/6x45_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>46</td><td>0.45581227</td><td>0.42257713</td><td>hlc</td><td><a href="CurrentBestPackings/6x46_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>47</td><td>0.45969650</td><td>0.42565792</td><td>hlc</td><td><a href="CurrentBestPackings/6x47_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>48</td><td>0.46279585</td><td>0.42857143</td><td>hlc</td><td><a href="CurrentBestPackings/6x48_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>49</td><td>0.46609231</td><td>0.43133109</td><td>hlc</td><td><a href="CurrentBestPackings/6x49_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>46</td><td>0.45560317</td><td>0.42257713</td><td>jrr</td><td><a href="CurrentBestPackings/6x46_jrr.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>47</td><td>0.45924802</td><td>0.42565792</td><td>jrr</td><td><a href="CurrentBestPackings/6x47_jrr.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>48</td><td>0.46253866</td><td>0.42857143</td><td>jrr</td><td><a href="CurrentBestPackings/6x48_jrr.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>49</td><td>0.46590261</td><td>0.43133109</td><td>jrr</td><td><a href="CurrentBestPackings/6x49_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>9</td><td>0.19601846</td><td>0.19428362</td><td>JJ</td><td><a href="CurrentBestPackings/7x9_JJ.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>10</td><td>0.22157245</td><td>0.21951220</td><td>hlc</td><td><a href="CurrentBestPackings/7x10_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>11</td><td>0.23931889</td><td>0.23904572</td><td>hlc</td><td><a href="CurrentBestPackings/7x11_hlc.txt">File</a></td><td></td></tr>
@@ -322,8 +323,8 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>7</td><td>13</td><td>0.26727220</td><td>0.26726124</td><td>hlc</td><td><a href="CurrentBestPackings/7x13_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>14</td><td>0.27735010</td><td>0.27735010</td><td>etf</td><td><a href="CurrentBestPackings/7x14_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>7</td><td>15</td><td>0.28571429</td><td>0.28571429</td><td>etf</td><td><a href="CurrentBestPackings/7x15_etf.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>7</td><td>16</td><td>0.29279313</td><td>0.29277002</td><td>hlc</td><td><a href="CurrentBestPackings/7x16_hlc.txt">File</a></td><td></td></tr>
-<tr><td>7</td><td>17</td><td>0.29885766</td><td>0.29880715</td><td>bmem</td><td><a href="CurrentBestPackings/7x17_bmem.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>16</td><td>0.29278206</td><td>0.29277002</td><td>jrr</td><td><a href="CurrentBestPackings/7x16_jrr.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>17</td><td>0.29883989</td><td>0.29880715</td><td>jrr</td><td><a href="CurrentBestPackings/7x17_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>18</td><td>0.30417036</td><td>0.30403450</td><td>hlc</td><td><a href="CurrentBestPackings/7x18_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>19</td><td>0.30884718</td><td>0.30860670</td><td>hlc</td><td><a href="CurrentBestPackings/7x19_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>20</td><td>0.31334596</td><td>0.31264095</td><td>hlc</td><td><a href="CurrentBestPackings/7x20_hlc.txt">File</a></td><td></td></tr>
@@ -333,12 +334,12 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>7</td><td>24</td><td>0.32959971</td><td>0.32494624</td><td>hlc</td><td><a href="CurrentBestPackings/7x24_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>25</td><td>0.33247138</td><td>0.32732684</td><td>hlc</td><td><a href="CurrentBestPackings/7x25_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>26</td><td>0.33315439</td><td>0.32950179</td><td>hlc</td><td><a href="CurrentBestPackings/7x26_hlc.txt">File</a></td><td></td></tr>
-<tr><td>7</td><td>27</td><td>0.33333333</td><td>0.33149677</td><td>AUTO</td><td><a href="CurrentBestPackings/7x27_AUTO.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>27</td><td>0.33331171</td><td>0.33149677</td><td>jrr</td><td><a href="CurrentBestPackings/7x27_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>28</td><td>0.33333333</td><td>0.33333333</td><td>etf</td><td><a href="CurrentBestPackings/7x28_etf.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>7</td><td>29</td><td>0.34081228</td><td>0.33502970</td><td>hlc</td><td><a href="CurrentBestPackings/7x29_hlc.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>29</td><td>0.34077885</td><td>0.33502970</td><td>jrr</td><td><a href="CurrentBestPackings/7x29_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>30</td><td>0.34639121</td><td>0.33660139</td><td>hlc</td><td><a href="CurrentBestPackings/7x30_hlc.txt">File</a></td><td></td></tr>
-<tr><td>7</td><td>31</td><td>0.34990310</td><td>0.33806170</td><td>hlc</td><td><a href="CurrentBestPackings/7x31_hlc.txt">File</a></td><td></td></tr>
-<tr><td>7</td><td>32</td><td>0.35260718</td><td>0.33942212</td><td>hlc</td><td><a href="CurrentBestPackings/7x32_hlc.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>31</td><td>0.34941560</td><td>0.33806170</td><td>jrr</td><td><a href="CurrentBestPackings/7x31_jrr.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>32</td><td>0.35229897</td><td>0.33942212</td><td>jrr</td><td><a href="CurrentBestPackings/7x32_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>33</td><td>0.35355339</td><td>0.34069257</td><td>AUTO</td><td><a href="CurrentBestPackings/7x33_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>34</td><td>0.35355339</td><td>0.34188173</td><td>AUTO</td><td><a href="CurrentBestPackings/7x34_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>35</td><td>0.35355339</td><td>0.34299717</td><td>AUTO</td><td><a href="CurrentBestPackings/7x35_AUTO.txt">File</a></td><td></td></tr>
@@ -357,6 +358,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>7</td><td>48</td><td>0.35355339</td><td>0.35301567</td><td>AUTO</td><td><a href="CurrentBestPackings/7x48_AUTO.txt">File</a></td><td>&#9651;</td></tr>
 <tr><td>7</td><td>49</td><td>0.35355339</td><td>0.35355339</td><td>etf</td><td><a href="CurrentBestPackings/7x49_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>8</td><td>15</td><td>0.25000000</td><td>0.25000000</td><td>etf</td><td><a href="CurrentBestPackings/8x15_etf.txt">File</a></td><td>&#9675;</td></tr>
+<tr><td>8</td><td>16</td><td>0.25819889</td><td>0.25819889</td><td>etf</td><td><a href="CurrentBestPackings/8x16_etf.txt">File</a></td><td></td></tr>
 <tr><td>8</td><td>57</td><td>0.33071891</td><td>0.33071891</td><td>etf</td><td><a href="CurrentBestPackings/8x57_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>8</td><td>64</td><td>0.33333333</td><td>0.33333333</td><td>etf</td><td><a href="CurrentBestPackings/8x64_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>9</td><td>13</td><td>0.19245009</td><td>0.19245009</td><td>etf</td><td><a href="CurrentBestPackings/9x13_etf.txt">File</a></td><td>&#9675;</td></tr>
@@ -364,6 +366,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>9</td><td>37</td><td>0.29397237</td><td>0.29397237</td><td>etf</td><td><a href="CurrentBestPackings/9x37_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>9</td><td>73</td><td>0.31426968</td><td>0.31426968</td><td>etf</td><td><a href="CurrentBestPackings/9x73_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>9</td><td>81</td><td>0.31622777</td><td>0.31622777</td><td>etf</td><td><a href="CurrentBestPackings/9x81_etf.txt">File</a></td><td>&#9675;</td></tr>
+<tr><td>10</td><td>16</td><td>0.20000000</td><td>0.20000000</td><td>etf</td><td><a href="CurrentBestPackings/10x16_etf.txt">File</a></td><td></td></tr>
 <tr><td>10</td><td>19</td><td>0.22360680</td><td>0.22360680</td><td>etf</td><td><a href="CurrentBestPackings/10x19_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>10</td><td>25</td><td>0.25000000</td><td>0.25000000</td><td>etf</td><td><a href="CurrentBestPackings/10x25_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>10</td><td>91</td><td>0.30000000</td><td>0.30000000</td><td>etf</td><td><a href="CurrentBestPackings/10x91_etf.txt">File</a></td><td>&#9675;</td></tr>
@@ -378,14 +381,14 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>14</td><td>196</td><td>0.25819889</td><td>0.25819889</td><td>etf</td><td><a href="CurrentBestPackings/14x196_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>15</td><td>225</td><td>0.25000000</td><td>0.25000000</td><td>etf</td><td><a href="CurrentBestPackings/15x225_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>16</td><td>21</td><td>0.12500000</td><td>0.12500000</td><td>etf</td><td><a href="CurrentBestPackings/16x21_etf.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>16</td><td>80</td><td>0.24253563</td><td>0.22501758</td><td>AUTO</td><td><a href="CurrentBestPackings/16x80_AUTO.txt">File</a></td><td></td></tr>
+<tr><td>16</td><td>80</td><td>0.23462896</td><td>0.22501758</td><td>jrr</td><td><a href="CurrentBestPackings/16x80_jrr.txt">File</a></td><td></td></tr>
 <tr><td>16</td><td>256</td><td>0.24253563</td><td>0.24253563</td><td>etf</td><td><a href="CurrentBestPackings/16x256_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>18</td><td>324</td><td>0.22941573</td><td>0.22941573</td><td>etf</td><td><a href="CurrentBestPackings/18x324_etf.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>19</td><td>361</td><td>0.22360680</td><td>0.22360680</td><td>etf</td><td><a href="CurrentBestPackings/19x361_etf.txt">File</a></td><td>&#9675;</td></tr>
     </tbody>
   </table>
 </div>
-<div><p>Last updated: 2025-07-20.</p></div>
+<div><p>Last updated: 2026-01-19.</p></div>
 
 
 
@@ -405,6 +408,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 [CID+21] Diego Cuevas, Carlos Beltr&aacute;n, Ignacio Santamaria, V&iacute;t Tu&#269;ek, and Gunnar Peters: &ldquo;A Fast Algorithm for Designing Grassmannian Constellations.&rdquo; (2021) <a href="https://gtas.unican.es/files/pub/non_coherent_wsa21_full_paper.pdf">https://gtas.unican.es/files/pub/non_coherent_wsa21_full_paper.pdf</a>, <i>Conference: WSA 2021 - 25th International ITG Workshop on Smart Antennas</i></i></br>
 [FM16] Matt Fickus and Dustin G. Mixon: &ldquo;Tables of the existence of equiangular tight frames.&rdquo; (2016) <a href="http://arxiv.org/abs/1504.00253">[arXiv]</a></br>
 [Flamm] Steve Flammia: &ldquo;Exact SIC fiducial vectors.&rdquo; <a href="http://www.physics.usyd.edu.au/~sflammia/SIC/">http://www.physics.usyd.edu.au/~sflammia/SIC/</a></br>
+[FrameOpt] Juan Rom&aacute;n-Roche: &ldquo;frameopt&rdquo; A suite of optimization algorithms and tools for the numerical construction of maximally orthogonal frames (MOFs) in complex space <a href="https://github.com/chuan97/frameopt">GitHub repository</a></br>
 [FSDH] Christopher Fuchs, Blake Stacey, John DeBrota, and Michael Hoang: &ldquo;QBism: Quantum Theory as a Hero's Handbook: SIC-POVM Solutions.&rdquo; <a href="http://www.physics.umb.edu/Research/QBism/solutions.html">http://www.physics.umb.edu/Research/QBism/solutions.html</a></br>
 [Grassl] Markus Grassl and Andrew J. Scott: &ldquo;SIC-POVMs&rdquo; <a href="http://sicpovm.markus-grassl.de/">http://sicpovm.markus-grassl.de/</a></br>
 [KlRo04] Andreas Klappenecker and Martin R&ouml;tteler: &ldquo;Constructions of mutually unbiased bases.&rdquo; (2004) in <i>Finite fields and applications</i>, <i>Lecture Notes in Comput. Sci.</i> 2948, 137&ndash;144, Springer, Berlin. <a href="https://arxiv.org/abs/quant-ph/0309120">[arXiv]</a></br>
