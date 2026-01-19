@@ -57,7 +57,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
               <li> dgm, ejk, and JJ: Dustin G. Mixon, Emily J. King, and John Jasper, respectively.</li>
               <li> hlc: Henry Cohn.</li>
               <li> gKmR: Gene Kopp and Michael Ren.</li>
-              <li> jrr: Juan Rom&aacute;n-Roche and Sebasti&aacute;n Roca-Jerat.</li>
+              <li> jrr: Juan Rom&aacute;n-Roche and Sebasti&aacute;n Roca-Jerat, using code from [FrameOpt].</li>
               <li> bmem: Bastien Massion and Estelle Massart. </li>
               <li> BGM+22: From the paper [BGM+22].</li>
               <li> CID+21: From the paper [CID+21]. (Has since been knocked off the leader board.)</li>
