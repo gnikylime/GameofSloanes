@@ -61,6 +61,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
               <li> bmem: Bastien Massion and Estelle Massart. </li>
               <li> BGM+22: From the paper [BGM+22].</li>
               <li> CID+21: From the paper [CID+21]. (Has since been knocked off the leader board.)</li>
+              <li> oai: ChatGPT Pro prompted by Dustin</li>
             </ul>
           </li>
           <li> <b>Text File</b> contains a link to a .txt file with the best submitted packing formated as a newline-separated list of the $2 d n$ entries of the vectors, starting with the real parts of the first vector, then the real parts of the second vector, and so on until the imaginary parts of the last vector.</li>
@@ -269,9 +270,9 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>5</td><td>44</td><td>0.50000000</td><td>0.49785866</td><td>AUTO</td><td><a href="CurrentBestPackings/5x44_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>45</td><td>0.50000000</td><td>0.50000000</td><td>Lev</td><td><a href="CurrentBestPackings/5x45_Lev.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>5</td><td>46</td><td>0.52188522</td><td>0.50202841</td><td>jrr</td><td><a href="CurrentBestPackings/5x46_jrr.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>47</td><td>0.53699561</td><td>0.50395263</td><td>jrr</td><td><a href="CurrentBestPackings/5x47_jrr.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>47</td><td>0.53660699</td><td>0.50395263</td><td>oai</td><td><a href="CurrentBestPackings/5x47_oai.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>48</td><td>0.54097140</td><td>0.50578054</td><td>hlc</td><td><a href="CurrentBestPackings/5x48_hlc.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>49</td><td>0.54276167</td><td>0.50751922</td><td>jrr</td><td><a href="CurrentBestPackings/5x49_jrr.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>49</td><td>0.54164128</td><td>0.50751922</td><td>oai</td><td><a href="CurrentBestPackings/5x49_oai.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>50</td><td>0.55173030</td><td>0.50917508</td><td>hlc</td><td><a href="CurrentBestPackings/5x50_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>85</td><td>0.57735027</td><td>0.54006172</td><td>BGMP</td><td><a href="CurrentBestPackings/5x85_BGMP.txt">File</a></td><td>&#9651;[BGM+22]</td></tr>
 <tr><td>6</td><td>8</td><td>0.22400924</td><td>0.22400924</td><td>B-C</td><td><a href="CurrentBestPackings/6x8_B-C.txt">File</a></td><td>&#9675;</td></tr>
@@ -306,11 +307,11 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>6</td><td>37</td><td>0.40824829</td><td>0.40824829</td><td>orth</td><td><a href="CurrentBestPackings/6x37_orth.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>6</td><td>38</td><td>0.41682055</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x38_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>39</td><td>0.42274914</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x39_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>40</td><td>0.42819149</td><td>0.40824829</td><td>jrr</td><td><a href="CurrentBestPackings/6x40_jrr.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>41</td><td>0.43077617</td><td>0.40824829</td><td>jrr</td><td><a href="CurrentBestPackings/6x41_jrr.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>42</td><td>0.43731047</td><td>0.40824829</td><td>hlc</td><td><a href="CurrentBestPackings/6x42_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>40</td><td>0.42511243</td><td>0.40824829</td><td>oai</td><td><a href="CurrentBestPackings/6x40_oai.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>41</td><td>0.43054987</td><td>0.40824829</td><td>oai</td><td><a href="CurrentBestPackings/6x41_oai.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>42</td><td>0.43368892</td><td>0.40824829</td><td>oai</td><td><a href="CurrentBestPackings/6x42_oai.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>43</td><td>0.44190326</td><td>0.41217007</td><td>jrr</td><td><a href="CurrentBestPackings/6x43_jrr.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>44</td><td>0.44673518</td><td>0.41585133</td><td>jrr</td><td><a href="CurrentBestPackings/6x44_jrr.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>44</td><td>0.44643020</td><td>0.41585133</td><td>oai</td><td><a href="CurrentBestPackings/6x44_oai.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>45</td><td>0.45132430</td><td>0.41931393</td><td>hlc</td><td><a href="CurrentBestPackings/6x45_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>46</td><td>0.45560317</td><td>0.42257713</td><td>jrr</td><td><a href="CurrentBestPackings/6x46_jrr.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>47</td><td>0.45924802</td><td>0.42565792</td><td>jrr</td><td><a href="CurrentBestPackings/6x47_jrr.txt">File</a></td><td></td></tr>
@@ -336,7 +337,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>7</td><td>26</td><td>0.33315439</td><td>0.32950179</td><td>hlc</td><td><a href="CurrentBestPackings/7x26_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>27</td><td>0.33331171</td><td>0.33149677</td><td>jrr</td><td><a href="CurrentBestPackings/7x27_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>28</td><td>0.33333333</td><td>0.33333333</td><td>etf</td><td><a href="CurrentBestPackings/7x28_etf.txt">File</a></td><td>&#9675;</td></tr>
-<tr><td>7</td><td>29</td><td>0.34077885</td><td>0.33502970</td><td>jrr</td><td><a href="CurrentBestPackings/7x29_jrr.txt">File</a></td><td></td></tr>
+<tr><td>7</td><td>29</td><td>0.34064551</td><td>0.33502970</td><td>oai</td><td><a href="CurrentBestPackings/7x29_oai.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>30</td><td>0.34639121</td><td>0.33660139</td><td>hlc</td><td><a href="CurrentBestPackings/7x30_hlc.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>31</td><td>0.34941560</td><td>0.33806170</td><td>jrr</td><td><a href="CurrentBestPackings/7x31_jrr.txt">File</a></td><td></td></tr>
 <tr><td>7</td><td>32</td><td>0.35229897</td><td>0.33942212</td><td>jrr</td><td><a href="CurrentBestPackings/7x32_jrr.txt">File</a></td><td></td></tr>
@@ -392,7 +393,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
     </tbody>
   </table>
 </div>
-<div><p>Last updated: 2026-01-19.</p></div>
+<div><p>Last updated: 2026-04-21.</p></div>
 
 
 
