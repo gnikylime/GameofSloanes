@@ -61,7 +61,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
               <li> bmem: Bastien Massion and Estelle Massart. </li>
               <li> BGM+22: From the paper [BGM+22].</li>
               <li> CID+21: From the paper [CID+21]. (Has since been knocked off the leader board.)</li>
-              <li> oai: ChatGPT Pro prompted by Dustin</li>
+              <li> oai: ChatGPT Pro prompted by Dustin G. Mixon</li>
             </ul>
           </li>
           <li> <b>Text File</b> contains a link to a .txt file with the best submitted packing formated as a newline-separated list of the $2 d n$ entries of the vectors, starting with the real parts of the first vector, then the real parts of the second vector, and so on until the imaginary parts of the last vector.</li>
