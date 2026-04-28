@@ -73,7 +73,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
             </ul>
           </li>
           <li>For Julia code with optimal packings (and code to compute further packings) when $n=d^2$, see [Zauner.jl]. See also [FSDH], [Grassl], and [Flamm].</li>
-          <li> For lists of spherical codes, see [Sphere]</li>
+          <li> For lists of spherical codes, see [Sphere].</li>
         </ul>
 </p>
 
