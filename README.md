@@ -72,7 +72,8 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
               <li> When pertinent, a reference to a paper or website is listed.</li>
             </ul>
           </li>
-          <li>For a listing of numerically approximated and explicitly defined optimal packings when $n=d^2$, see, e.g., [FSDH], [Grassl], and [Flamm].</li>
+          <li>For Julia code with optimal packings (and code to compute further packings) when $n=d^2$, see [Zauner.jl]. See also [FSDH], [Grassl], and [Flamm].</li>
+          <li> For lists of spherical codes, see [Sphere]</li>
         </ul>
 </p>
 
@@ -421,7 +422,9 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 [MeDa14b] Ahmed Medra and Timothy N. Davidson: &ldquo;Flexible codebook design for limited feedback systems.&rdquo; <a href="http://www.ece.mcmaster.ca/~davidson/pubs/Flexible_codebook_design.html">http://www.ece.mcmaster.ca/~davidson/pubs/Flexible_codebook_design.html</a></br>
 [Sloane1] Neil J. A. Sloane: &ldquo;Spherical codes.&rdquo; <a href="http://neilsloane.com/packings/">http://neilsloane.com/packings/</a></br>
 [Sloane2] Neil J. A. Sloane: &ldquo;How to pack lines, planes, $3$-spaces, etc.&rdquo; <a href="http://neilsloane.com/grass/">http://neilsloane.com/grass/</a></br>
-[TDHS05] Joel A. Tropp, Inderjit S. Dhillon, Robert W. Heath, Jr., and Thomas Strohmer: &ldquo;Designing structured tight frames via alternating projection.&rdquo; <i>IEEE Trans. Info. Theory</i> 51(1), 188&ndash;209 (2005)
+[Sphere] Henry Cohn: <a href="https://spherical-codes.org/">Spherical Codes</a></br>
+[TDHS05] Joel A. Tropp, Inderjit S. Dhillon, Robert W. Heath, Jr., and Thomas Strohmer: &ldquo;Designing structured tight frames via alternating projection.&rdquo; <i>IEEE Trans. Info. Theory</i> 51(1), 188&ndash;209 (2005)</br>
+[Zauner.jl] Steve Flammia et al.: <a href="https://github.com/sflammia/Zauner.jl">Zauner.jl GitHub</a>
 </p>
 
 
