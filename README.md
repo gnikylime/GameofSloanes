@@ -62,6 +62,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
               <li> BGM+22: From the paper [BGM+22].</li>
               <li> CID+21: From the paper [CID+21]. (Has since been knocked off the leader board.)</li>
               <li> oai: ChatGPT Pro prompted by Dustin G. Mixon</li>
+              <li> grai: Grok prompted by Josiah Park</li>
             </ul>
           </li>
           <li> <b>Text File</b> contains a link to a .txt file with the best submitted packing formated as a newline-separated list of the $2 d n$ entries of the vectors, starting with the real parts of the first vector, then the real parts of the second vector, and so on until the imaginary parts of the last vector.</li>
@@ -259,10 +260,10 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>5</td><td>32</td><td>0.48688165</td><td>0.45812285</td><td>hlc</td><td><a href="CurrentBestPackings/5x32_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>33</td><td>0.49101569</td><td>0.46291005</td><td>hlc</td><td><a href="CurrentBestPackings/5x33_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>34</td><td>0.49721217</td><td>0.46732302</td><td>jrr</td><td><a href="CurrentBestPackings/5x34_jrr.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>35</td><td>0.49998890</td><td>0.47140452</td><td>AUTO</td><td><a href="CurrentBestPackings/5x35_AUTO.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>36</td><td>0.49998890</td><td>0.47519096</td><td>AUTO</td><td><a href="CurrentBestPackings/5x36_AUTO.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>37</td><td>0.49998890</td><td>0.47871355</td><td>AUTO</td><td><a href="CurrentBestPackings/5x37_AUTO.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>38</td><td>0.49998890</td><td>0.48199920</td><td>jrr</td><td><a href="CurrentBestPackings/5x38_jrr.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>35</td><td>0.49895282</td><td>0.47140452</td><td>AUTO</td><td><a href="CurrentBestPackings/5x35_grai.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>36</td><td>0.49931761</td><td>0.47519096</td><td>AUTO</td><td><a href="CurrentBestPackings/5x36_grai.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>37</td><td>0.49955216</td><td>0.47871355</td><td>AUTO</td><td><a href="CurrentBestPackings/5x37_grai.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>38</td><td>0.49998579</td><td>0.48199920</td><td>jrr</td><td><a href="CurrentBestPackings/5x38_grai.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>39</td><td>0.50000000</td><td>0.48507125</td><td>AUTO</td><td><a href="CurrentBestPackings/5x39_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>40</td><td>0.50000000</td><td>0.48795004</td><td>AUTO</td><td><a href="CurrentBestPackings/5x40_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>41</td><td>0.50000000</td><td>0.49065338</td><td>AUTO</td><td><a href="CurrentBestPackings/5x41_AUTO.txt">File</a></td><td></td></tr>
@@ -274,7 +275,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>5</td><td>47</td><td>0.53660699</td><td>0.50395263</td><td>oai</td><td><a href="CurrentBestPackings/5x47_oai.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>48</td><td>0.54097140</td><td>0.50578054</td><td>hlc</td><td><a href="CurrentBestPackings/5x48_hlc.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>49</td><td>0.54164128</td><td>0.50751922</td><td>oai</td><td><a href="CurrentBestPackings/5x49_oai.txt">File</a></td><td></td></tr>
-<tr><td>5</td><td>50</td><td>0.55173030</td><td>0.50917508</td><td>hlc</td><td><a href="CurrentBestPackings/5x50_hlc.txt">File</a></td><td></td></tr>
+<tr><td>5</td><td>50</td><td>0.54316010</td><td>0.50917508</td><td>hlc</td><td><a href="CurrentBestPackings/5x50_grai.txt">File</a></td><td></td></tr>
 <tr><td>5</td><td>85</td><td>0.57735027</td><td>0.54006172</td><td>BGMP</td><td><a href="CurrentBestPackings/5x85_BGMP.txt">File</a></td><td>&#9651;[BGM+22]</td></tr>
 <tr><td>6</td><td>8</td><td>0.22400924</td><td>0.22400924</td><td>B-C</td><td><a href="CurrentBestPackings/6x8_B-C.txt">File</a></td><td>&#9675;</td></tr>
 <tr><td>6</td><td>9</td><td>0.25000000</td><td>0.25000000</td><td>etf</td><td><a href="CurrentBestPackings/6x9_etf.txt">File</a></td><td>&#9675;</td></tr>
@@ -292,7 +293,7 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>6</td><td>21</td><td>0.35644714</td><td>0.35355339</td><td>hlc</td><td><a href="CurrentBestPackings/6x21_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>22</td><td>0.35955441</td><td>0.35634832</td><td>hlc</td><td><a href="CurrentBestPackings/6x22_hlc.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>23</td><td>0.36537169</td><td>0.35887028</td><td>hlc</td><td><a href="CurrentBestPackings/6x23_hlc.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>24</td><td>0.36998252</td><td>0.36115756</td><td>hlc</td><td><a href="CurrentBestPackings/6x24_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>24</td><td>0.36970275</td><td>0.36115756</td><td>grai</td><td><a href="CurrentBestPackings/6x24_grai.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>25</td><td>0.37267800</td><td>0.36324158</td><td>AUTO</td><td><a href="CurrentBestPackings/6x25_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>26</td><td>0.37267800</td><td>0.36514837</td><td>AUTO</td><td><a href="CurrentBestPackings/6x26_AUTO.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>27</td><td>0.37267800</td><td>0.36689969</td><td>AUTO</td><td><a href="CurrentBestPackings/6x27_AUTO.txt">File</a></td><td></td></tr>
@@ -311,9 +312,9 @@ $$a = \frac{\sqrt{13}+\sqrt{2+\sqrt{13}}-1}{3\sqrt{3}}, \quad b = \sqrt{\frac{1-
 <tr><td>6</td><td>40</td><td>0.42511243</td><td>0.40824829</td><td>oai</td><td><a href="CurrentBestPackings/6x40_oai.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>41</td><td>0.43054987</td><td>0.40824829</td><td>oai</td><td><a href="CurrentBestPackings/6x41_oai.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>42</td><td>0.43368892</td><td>0.40824829</td><td>oai</td><td><a href="CurrentBestPackings/6x42_oai.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>43</td><td>0.44190326</td><td>0.41217007</td><td>jrr</td><td><a href="CurrentBestPackings/6x43_jrr.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>44</td><td>0.44643020</td><td>0.41585133</td><td>oai</td><td><a href="CurrentBestPackings/6x44_oai.txt">File</a></td><td></td></tr>
-<tr><td>6</td><td>45</td><td>0.45132430</td><td>0.41931393</td><td>hlc</td><td><a href="CurrentBestPackings/6x45_hlc.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>43</td><td>0.44061586</td><td>0.41217007</td><td>jrr</td><td><a href="CurrentBestPackings/6x43_grai.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>44</td><td>0.44589711</td><td>0.41585133</td><td>oai</td><td><a href="CurrentBestPackings/6x44_grai.txt">File</a></td><td></td></tr>
+<tr><td>6</td><td>45</td><td>0.45112661</td><td>0.41931393</td><td>hlc</td><td><a href="CurrentBestPackings/6x45_grai.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>46</td><td>0.45560317</td><td>0.42257713</td><td>jrr</td><td><a href="CurrentBestPackings/6x46_jrr.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>47</td><td>0.45924802</td><td>0.42565792</td><td>jrr</td><td><a href="CurrentBestPackings/6x47_jrr.txt">File</a></td><td></td></tr>
 <tr><td>6</td><td>48</td><td>0.46253866</td><td>0.42857143</td><td>jrr</td><td><a href="CurrentBestPackings/6x48_jrr.txt">File</a></td><td></td></tr>
